@@ -1,0 +1,27 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: #30302c;
+}
+
+a:hover {
+    color: #e8e6d8;
+}
+
+.banner {
+    background: #d6d4c7;
+    outline: 1px solid #4f4e4a; 
+}
+
+.recipelist {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #c2c0b2;
+    width: 600px;
+}
+
+.recipelist.head {
+    background: #a6a49c;
+    outline: 1px solid #4f4e4a; 
+}
